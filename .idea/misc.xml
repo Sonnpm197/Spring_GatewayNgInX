@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../beadung-spring-projects/tutorials-master/spring-cloud/spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../LE_SleuthAndZipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/../../Parkway/parkway-gateway/parkway-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../LE_Quizlet/pom.xml" />
+        <option value="$PROJECT_DIR$/../../jwt-swagger-auditing/pom.xml" />
+        <option value="$PROJECT_DIR$/../LE_Jwt_Swagger_Auditing/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

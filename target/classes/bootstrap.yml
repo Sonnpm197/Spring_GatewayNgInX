@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: service_route
+        uri: http://localhost:8081
+        predicates:
+          - Path=/service/**
+        filters:
+          - RewritePath=/service/(?<remains>.*), /${remains}
