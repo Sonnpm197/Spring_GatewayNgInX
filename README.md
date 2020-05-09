@@ -3,6 +3,7 @@
 ## Related apps
 
 Custom Gateway with NgInx: https://github.com/Sonnpm197/Spring_GatewayNgInX
+
 SampleApp (Anki): https://github.com/Sonnpm197/Spring_Anki
 
 ## Run
