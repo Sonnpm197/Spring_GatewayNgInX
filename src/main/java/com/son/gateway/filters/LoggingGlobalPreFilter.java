@@ -9,7 +9,7 @@ import org.springframework.web.server.ServerWebExchange;
 import reactor.core.publisher.Mono;
 
 // GlobalFilter'll affect every single request.
-@Component
+//@Component
 public class LoggingGlobalPreFilter implements GlobalFilter {
 
     final Logger logger = LoggerFactory.getLogger(LoggingGlobalPreFilter.class);
