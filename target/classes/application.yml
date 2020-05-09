@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+      - id: service_route
+        uri: http://localhost:8070 #NgInx port
+        predicates:
+        - Path=/anki/**
+        filters:
+        - RewritePath=/anki/(?<remains>.*), /backendanki/${remains}
+        - CustomFilter
+server:
+  port: 9999
