@@ -1,6 +1,8 @@
-# Spring Boot JWT + Swagger + JPA Auditing + Controller Advice
+# Spring Microservices Sample with NgInx and custom gateway
 
 ## Related apps
+
+Spring JWT + Swagger + JPA Auditing + ControllerAdvice: https://github.com/Sonnpm197/Spring_JwtSwaggerAuditing
 
 Custom Gateway with NgInx: https://github.com/Sonnpm197/Spring_GatewayNgInX
 
